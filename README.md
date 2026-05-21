@@ -167,11 +167,15 @@ The tool exists to help users feel less powerless during the job search process.
 
 ### Main page
 
-![Homepage](screenshots/screenshot-main-page.png)
+![Main page](screenshots/screenshot-main-page.png)
 
 ### Main Feature
 
 ![Main Feature](screenshots/screenshot-7elections.png)
+
+### Animation Effect
+
+![Animation Effect](screenshots/BOMB-rejection.png)
 
 ### Result Example
 
