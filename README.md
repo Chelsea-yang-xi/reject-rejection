@@ -163,16 +163,16 @@ The tool exists to help users feel less powerless during the job search process.
 
 ---
 
-## Example Output
+## Screenshots
 
-```text
-Dear Hiring Team,
+### Main page
 
-Thank you for your rejection.
+![Homepage](screenshots/screenshot-main-page.png)
 
-After careful consideration, I regret to inform you that I will not be moving forward with accepting your rejection at this time.
+### Main Feature
 
-While your rejection demonstrated strong alignment with industry-standard vagueness, I have decided to proceed with other disappointments that more closely match my emotional development goals.
+![Main Feature](screenshots/screenshot-7elections.png)
 
-Kind regards,
-A candidate who has seen this template before
+### Result Example
+
+![Result Example](screenshots/screenshot-sagave-reply.png)
