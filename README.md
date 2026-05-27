@@ -3,7 +3,7 @@
 A browser-based tool that helps job seekers turn generic rejection emails into witty, risk-scored reply drafts — without sending anything automatically.
 
 ## Live Demo
-https://reject-rejection.netlify.app/
+[https://reject-rejection.netlify.app/](https://rejectrejection.online/)
 
 ## Why I built this
 Job seekers receive many generic rejection emails after interviews, assignments, or ghosting. This tool gives candidates a small moment of control, humor, and emotional relief while keeping communication safe and reviewable.
@@ -24,3 +24,8 @@ This is not designed to automatically attack HR. The product principle is:
 - Frontend: HTML / CSS / JavaScript or React
 - Deployment: Netlify
 - Design: responsive single-page app
+
+## Screenshots
+![Rejectrejection](screenshots/BOMB-rejection.png)
+
+![Frontpage](screenshots/Bscreenshot-main-page.png)
