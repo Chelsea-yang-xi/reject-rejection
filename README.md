@@ -28,4 +28,4 @@ This is not designed to automatically attack HR. The product principle is:
 ## Screenshots
 ![Rejectrejection](screenshots/BOMB-rejection.png)
 
-![Frontpage](screenshots/Bscreenshot-main-page.png)
+![Frontpage](screenshots/screenshot-main-page.png)
